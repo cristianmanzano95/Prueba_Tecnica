@@ -15,7 +15,7 @@ Para correr este codigo se requiere:
 Lo segundo que se requiere son los comandos y tener corriendo en el xampp control panel las dos primeras opciones es decir APACHE Y MYSQL
 
 Los comandos son los siguiente:
-1) ingresar en la carpeta del proyecto por medio de la terminal y escribir alli "php artisan serve"
+1) ingresar en la carpeta del proyecto (Prueba_Tecnica) por medio de la terminal y escribir alli "php artisan serve"
 2) La base de datos esta anexada en la carpeta del proyecto (Base_Datos) lista para ser importada en "http://localhost/phpmyadmin/" para realizar pruebas.
 
 Por ultimo se ingresa al navegado donde se abrio la base de datos y se escribe en la barra de busqueda "localhost:8000" esto nos llevara a una vista de agregar producto y de alli ya se puede empezar con las pruebas.
