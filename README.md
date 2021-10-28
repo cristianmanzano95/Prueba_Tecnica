@@ -16,7 +16,6 @@ Lo segundo que se requiere son los comandos y tener corriendo en el xampp contro
 
 Los comandos son los siguiente:
 1) ingresar en la carpeta del proyecto por medio de la terminal y escribir alli "php artisan serve"
-2) La base de datos esta anexada en la carpeta del proyecto (Base_Datos) lista para ser importada en "phpmyadmin" local para realizar pruebas.
+2) La base de datos esta anexada en la carpeta del proyecto (Base_Datos) lista para ser importada en "http://localhost/phpmyadmin/" para realizar pruebas.
 
-
-Por ultimo se ingresa al navegador de preferencia y se escribe en la barra de busqueda "localhost:8000" esto nos llevara a una vista de agregar producto y de alli ya se puede empezar con las pruebas.
+Por ultimo se ingresa al navegado donde se abrio la base de datos y se escribe en la barra de busqueda "localhost:8000" esto nos llevara a una vista de agregar producto y de alli ya se puede empezar con las pruebas.
